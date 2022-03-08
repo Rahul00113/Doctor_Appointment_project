@@ -1,0 +1,44 @@
+
+.appoint{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    width: 600px;
+    background-image: url('https://images.unsplash.com/photo-1616426745332-be27ed09534b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MHx8MHx8&w=1000&q=80');
+    background-repeat: repeat;
+    border: hidden;
+    border-radius: 20px;
+    background-size: 110%;
+}
+.appoin_back{
+    
+ background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7cPYhygk37Q7v5c5IrBC7yqshTt9-q5Pic_zKzm3b-cfpKgOotRwdAfIlrOU2TWbDD0&usqp=CAU');
+ background-repeat: no-repeat;
+ background-size: 140%;
+}
+.appoin_head{
+    text-align: center;
+    color: rgb(63, 62, 62);
+}
+.appoin_butn{
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.appoin_inbox{
+    width: 500px;
+    height: 40px;
+}
+.appoin_lab{
+    font-size: 18px;
+    font-weight: 600;
+}
+.appoin_date{
+    float: left;
+}
+.appoin_time{
+    float: right;
+}
+.date_time{
+    width: 380px;
+}

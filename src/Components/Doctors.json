@@ -1,0 +1,110 @@
+{
+    "Doctor":[
+        
+            {
+                "sd_id":"SD01",
+                "doc_name":" Dr. Debyendu Acharjee",
+                "doc_img":"../../../../image/Dr-K.C-Das.jpg",
+                "doc_specialty":"Gastology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+            },
+            {
+                "sd_id":"SD02",
+                "doc_name":" Dr. Abhijeet Banerjee",
+                "doc_img":"../../../../image/doctor2.jpg",
+                "doc_specialty":"Gastology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD03",
+                "doc_name":" Dr. Koushik Biswas",
+                "doc_img":"../../../../image/doctor3.jpeg",
+                "doc_specialty":"Gastology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD04",
+                "doc_name":" Dr. Prabodh Chatterjee",
+                "doc_img":"../../../../image/doctor4.jpg",
+                "doc_specialty":"Gastology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+   
+            {
+                "sd_id":"SD05",
+                "doc_name":" Dr. Indrani Roy",
+                "doc_img":"../../../../image/doctor5.jpg",
+                "doc_specialty":"Neurology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+            },
+            {
+                "sd_id":"SD06",
+                "doc_name":" Dr. Shirshendu Saha",
+                "doc_img":"../../../../image/doctor6.jpg",
+                "doc_specialty":"Neurology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD07",
+                "doc_name":" Dr. Debashish Basak",
+                "doc_img":"../../../../image/Dr-K.C-Das.jpg",
+                "doc_specialty":"Neurology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD08 ",
+                "doc_name":" Dr. Hridyanshu Bhowmik",
+                "doc_img":"../../../../image/doctor2.jpg",
+                "doc_specialty":"Neurology",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD09",
+                "doc_name":" Dr. Ornab Dasgupta",
+                "doc_img":"../../../../image/doctor3.jpeg",
+                "doc_specialty":"Orthopedic",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
+            },
+            {
+                "sd_id":"SD10",
+                "doc_name":" Dr. Shantanu Debnath",
+                "doc_img":"../../../../image/doctor4.jpg",
+                "doc_specialty":"Orthopedic",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD11",
+                "doc_name":" Dr. Oindrila Karmakar",
+                "doc_img":"../../../../image/doctor5.jpg",
+                "doc_specialty":"Cardiologists",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD12",
+                "doc_name":" Dr. Rathindra Ghosh",
+                "doc_img":"../../../../image/doctor6.jpg",
+                "doc_specialty":"Cardiologists",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD13",
+                "doc_name":" Dr. Subrata Maitra",
+                "doc_img":"../../../../image/Dr-K.C-Das.jpg",
+                "doc_specialty":"Nephrologists",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "sd_id":"SD14",
+                "doc_name":" Dr. Tapan Sen",
+                "doc_img":"../../../../image/doctor2.jpg",
+                "doc_specialty":"Plastic Surgeons",
+                "doc_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            }
+    
+    
+    
+]
+}
